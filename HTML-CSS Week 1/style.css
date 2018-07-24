@@ -1,0 +1,19 @@
+body {
+    text-align: center;
+}
+
+div {
+    background: rgb(169, 178, 207);
+    border: solid 3px green;
+    width: 800px;
+    margin: auto;
+}
+
+a {
+    color:red;
+}
+
+span {
+    color:blue;
+    font-size: 30px;
+}
